@@ -3,9 +3,9 @@
 #### This App is made to implement Authentication and Authorization via Sign-in through Microsoft using Django and Python.
 
 ### 📃Table of Contents
-📌 [Tech Stack Used and Resources](#tech-stack)<br>
-📌 [Getting Started](#getting-started)<br>
-📌 [Application Flow](#flow)<be>
+- [Tech Stack Used and Resources](#tech-stack)<br>
+- [Getting Started](#getting-started)<br>
+- [Application Flow](#flow)<be>
 
 <a id="tech-stack"></a>
 ## Tech, Tool, and Resources Used
