@@ -1,0 +1,250 @@
+html,body{
+    margin:0;
+}
+.cover, .cover * {
+    box-sizing: border-box;
+    margin:0;
+}
+body{
+    overflow:hidden;
+}
+.cover, .cover * {
+    box-sizing: border-box;
+    }
+.cover {
+   background: linear-gradient(303deg, rgb(64, 104, 235) 0%,rgba(17, 55, 99, 1.00) 100%);
+    width: 100wh;
+    height: 100vh;
+    position: relative;
+   }
+
+.title {
+   text-align: left;
+    position: absolute;
+    left: 224px;
+   top: 140px;
+    width: 365px;
+    height: 337px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.title-span {
+   
+           color: #ff4133;
+   
+           font: 700 40px/106% 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.title-span2 {
+   
+           color: #ffffff;
+   
+           font: 700 40px/106% 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.title-span3 {
+   
+           color: #f0bd12;
+   
+           font: 700 40px/106% 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.title-span4 {
+   
+           color: #ffffff;
+   
+           font: 700 40px/106% 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.title-span5 {
+   
+           color: #ff678b;
+   
+           font: 700 40px/106% 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.title-span6 {
+   
+           color: #ffffff;
+   
+           font: 700 40px/106% 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.title-span7 {
+   
+           color: #14fd63;
+           font: 700 40px/106% 'Poppins', sans-serif;
+           
+       }
+
+.title-span8 {
+           color: #ffffff;
+           font: 700 40px/106% 'Poppins', sans-serif;     
+       }
+
+.title-span9 {
+   
+           color: #ffffff;
+   
+           font: 600 20px/106% 'Poppins', sans-serif;
+           line-height: 25px;
+           
+           
+       }
+
+.we-women {
+    position: absolute;
+    left: 1400px;
+    top: 315.05px;
+    overflow: visible;
+    
+   }
+
+.stories {
+   color: #ffffff;
+    text-align: left;
+    font: 700 20px/106% 'Poppins', sans-serif;
+    /* text-decoration: underline; */
+    position: absolute;
+    left: 271px;
+   top: 23px;
+    width: 209px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.share {
+   color: #ffffff;
+    text-align: left;
+    font: 700 20px/100% 'Poppins', sans-serif;
+    /* text-decoration: underline; */
+    position: absolute;
+    left: 450px;
+   top: 23px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.we-women2 {
+   color: #ffffff;
+    text-align: left;
+    font: 700 20px/100% 'Poppins', sans-serif;
+    text-decoration: underline;
+    position: absolute;
+    left: 61px;
+   top: 21px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.frame-14 {
+   width: 638px;
+    height: 618px;
+    position: absolute;
+    left: 650px;
+   top: 100px;
+   }
+
+.illustrations {
+   position: absolute;
+    inset: 0;
+   }
+
+.women-power-standing {
+   width: 179.58px;
+    height: 575.99px;
+    position: absolute;
+    left: 141.64px;
+   top: 15.8px;
+    transform-origin: 0 0;
+    transform: rotate(-4.528deg) scale(0.999, 1.001);
+   }
+
+.women-power-standing2 {
+   width: 180.02px;
+    height: 574.72px;
+    position: absolute;
+    left: 37.82px;
+   top: 56.23px;
+    transform-origin: 0 0;
+    transform: rotate(-12.251deg) scale(0.995, 1.005);
+   }
+
+.women-power-standing3 {
+   width: 179.51px;
+    height: 576.2px;
+    position: absolute;
+    left: 217.63px;
+   top: 20.61px;
+    transform-origin: 0 0;
+    transform: rotate(0.166deg) scale(1, 1);
+   }
+
+.women-power-standing4 {
+   width: 179.62px;
+    height: 575.88px;
+    position: absolute;
+    left: 303.69px;
+   top: 12.62px;
+    transform-origin: 0 0;
+    transform: rotate(5.643deg) scale(0.999, 1.001);
+   }
+
+.women-power-standing5 {
+   width: 179.02px;
+    height: 577.75px;
+    position: absolute;
+    left: 423.33px;
+   top: 9.83px;
+    transform-origin: 0 0;
+    transform: rotate(9.069deg) scale(1, 1);
+   }
+
+   
+.group-15 {
+   position: absolute;
+    inset: 0;
+   }
+
+.frame-1 {
+    background: #ffffff;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 180.62px;
+    height: 43.02px;
+    position: absolute;
+    left: 224px;
+    top: 480px;
+   }
+.frame-1:hover{
+    background: #717fdd;
+}
+
+

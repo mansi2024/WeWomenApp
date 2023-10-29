@@ -1,0 +1,207 @@
+body{
+    margin:0;
+   
+}
+.cover, .cover * {
+   box-sizing: border-box;
+  }
+
+.cover {
+   background: linear-gradient(300.91deg, rgb(16, 49, 157) 0%,rgba(17, 55, 99, 1.00) 100%);
+   width: 100%;
+   height: 1697px;
+   position: relative;
+   overflow: hidden;
+   margin-right:0;
+}
+
+.user{
+  font: 700 20px/106% 'Poppins', sans-serif;
+  color: #ffffff;
+  position: absolute;
+  top: 23px;
+}
+.we-women {
+  position: absolute;
+   left: 1198px;
+  top: 278px;
+   overflow: visible;
+  }
+
+.we-women2 {
+  position: absolute;
+   left: 1190px;
+  top: 823px;
+   overflow: visible;
+  }
+
+.we-women3 {
+  position: absolute;
+   left: 1190px;
+  top: 1328px;
+   overflow: visible;
+  }
+
+.we-women4 {
+  position: absolute;
+   left: 160px;
+  top: 278px;
+   overflow: visible;
+  }
+
+.we-women5 {
+  position: absolute;
+   left: 165px;
+  top: 803px;
+   overflow: visible;
+  }
+
+.we-women6 {
+  position: absolute;
+   left: 165px;
+  top: 1328px;
+   overflow: visible;
+  }
+
+.stories {
+  color: #ffffff;
+   text-align: left;
+   font: 700 20px/106% 'Poppins', sans-serif;
+   text-decoration: underline;
+   position: absolute;
+   left: 271px;
+  top: 23px;
+   width: 209px;
+   display: flex;
+  align-items: center;
+  justify-content: flex-start}
+
+.share {
+  color: #ffffff;
+   text-align: left;
+   font: 700 20px/106% 'Poppins', sans-serif;
+   position: absolute;
+   left: 450px;
+  top: 23px;
+   display: flex;
+  align-items: center;
+  justify-content: flex-start}
+
+.we-women7 {
+  color: #ffffff;
+   text-align: left;
+   font: 700 20px/106% 'Poppins', sans-serif;
+   position: absolute;
+   left: 61px;
+  top: 21px;
+   display: flex;
+  align-items: center;
+  justify-content: flex-start}
+
+button {
+   background-color:transparent;
+   border:none;
+   color: rgba(240, 240, 240, 0.88);
+   text-align: center;
+   font: 700 20px/106% 'Poppins', sans-serif;
+   position: absolute;
+   left:80%;
+   top: 25px;
+   display: flex;
+   align-items: center;
+   justify-content: flex-start
+}
+
+.pixabay-5083690 {
+  width: 267px;
+   height: 454px;
+   position: absolute;
+   left: 573px;
+  top: 166px;
+  }
+
+.pixabay-5083690:hover{
+     opacity:50%;
+} 
+.pixabay-1868130{
+  width: 267px;
+   height: 454px;
+   position: absolute;
+   left: 885px;
+  top: 166px;
+  }
+.pixabay-1868130:hover{
+   opacity:50%;
+} 
+
+.pixabay-1822476 {
+  width: 267px;
+   height: 454px;
+   position: absolute;
+   left: 249px;
+  top: 166px;
+  }
+.pixabay-1822476:hover{
+   opacity:50%;
+} 
+
+.pixabay-18224762 {
+  width: 267px;
+   height: 380px;
+   position: absolute;
+   left: 580px;
+  top: 1260px;
+  }
+.pixabay-18224762:hover{
+   opacity:50%;
+} 
+.pixabay-84893 {
+  width: 267px;
+   height: 454px;
+   position: absolute;
+   left: 880px;
+  top: 720px;
+  }
+.pixabay-84893:hover{
+   opacity:50%;
+} 
+.pixabay-5261318 {
+  width: 267px;
+   height: 454px;
+   position: absolute;
+   left: 249px;
+  top: 720px;
+  }
+.pixabay-5261318:hover{
+   opacity:50%;
+} 
+.pixabay-4809433 {
+  width: 267px;
+   height: 380px;
+   position: absolute;
+   left: 249px;
+  top: 1260px;
+  }
+.pixabay-4809433:hover{
+   opacity:50%;
+} 
+.pic-8 {
+  width: 267px;
+   height: 380px;
+   position: absolute;
+   left: 880px;
+  top: 1260px;
+  }
+.pic-8:hover{
+   opacity:50%;
+} 
+.pixabay-4707539 {
+  width: 267px;
+   height: 454px;
+   position: absolute;
+   left: 571px;
+  top: 723px;
+  }
+.pixabay-4707539:hover{
+   opacity:50%;
+} 
