@@ -1,6 +1,7 @@
 html,body{
     margin:0;
 }
+
 .cover, .cover * {
     box-sizing: border-box;
     margin:0;
