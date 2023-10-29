@@ -66,7 +66,7 @@ pip install django-allauth
 
 - Rerun the server, It should work fine.
 
-### Checking the users(signed in) through our Django web app, details in our Django admin.
+### Checking the users(signed in) details in our Django admin.
 - Visit http://localhost:8000/admin
 - Login through your username and password
 - You can see the users and their emails registered through your web app.
