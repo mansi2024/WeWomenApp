@@ -85,8 +85,8 @@ SOCIALACCOUNT_PROVIDERS = {
     'microsoft': {
        
         'APP': {
-            'client_id': '03370ed5-87b6-456d-9ac7-02f77237f577',
-            'secret': '.UR8Q~_NdFi356qO2-NBgqp_tCksd-RJD69O4drZ',
+            'client_id': '****************************',
+            'secret': '*******************************',
             'key': ''
         }
     }
