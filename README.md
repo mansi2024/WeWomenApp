@@ -1,6 +1,7 @@
 # WeWomenApp 👩
 #### The App is Made to spread awareness among women about women's empowerment. For example, the Epitome of women's leadership and courage in the form of Photos and blogs made available through the WeWomen App. 
 #### This App is made to implement Authentication and Authorization via Sign-in through Microsoft using Django and Python.
+#### Visit <a href="https://mansipandit2024.medium.com/auth-and-oauth-adding-third-party-authorization-to-your-app-0318bed2cfca">here</a> to learn about Authentication, Authorization and OAuth flow. <a href=" ">(It's a medium article written by me)</a>.
 
 ### 📃Table of Contents
 - [Tech Stack Used and Resources](#tech-stack)<br>
@@ -78,20 +79,22 @@ pip install django-allauth
 <a id="flow"></a>
 ## 🚀Application Flow
 - Home Page click on View Images.
-![Screenshot (69)](https://github.com/mansi2024/WeWomenApp/assets/89377143/f495cc24-4c3d-4270-9df8-ae581a9b3fcd)
+![Screenshot (69)](https://github.com/mansi2024/WeWomenApp/assets/89377143/f495cc24-4c3d-4270-9df8-ae581a9b3fcd)<hr>
 
 - Sign-in Page
-![Screenshot (70)](https://github.com/mansi2024/WeWomenApp/assets/89377143/56076230-29bc-4193-a97a-25aae18bd307)
+![Screenshot (70)](https://github.com/mansi2024/WeWomenApp/assets/89377143/56076230-29bc-4193-a97a-25aae18bd307)<hr>
 
 - Sign in through a Microsoft account, or create one.
-![Screenshot (73)](https://github.com/mansi2024/WeWomenApp/assets/89377143/89c6d21d-c26f-4a18-8061-4a655b8c05fa)
+![Screenshot (73)](https://github.com/mansi2024/WeWomenApp/assets/89377143/89c6d21d-c26f-4a18-8061-4a655b8c05fa)<hr>
 
 - Profile Page with a sign-out option and your name visible on the top-right corner.
- ![Screenshot (71)](https://github.com/mansi2024/WeWomenApp/assets/89377143/9fe82486-93e4-4815-9e9e-91bbae1bbc53)
+ ![Screenshot (71)](https://github.com/mansi2024/WeWomenApp/assets/89377143/9fe82486-93e4-4815-9e9e-91bbae1bbc53)<hr>
 
  ![Screenshot (72)](https://github.com/mansi2024/WeWomenApp/assets/89377143/e35806f7-266b-46f8-8fb9-ba1cad7d6482)
+ <hr>
+ <br>
 
-
+## If you want to share anything and have doubts, feel free to reach out to me.<a href="mansipandit2024@gmail.com">Mail</a>
 
 
 
